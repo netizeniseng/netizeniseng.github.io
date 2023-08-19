@@ -1,0 +1,238 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More Apps",
+      "image":"https://starpremium.github.io/image/semua.webp",
+      "link":"https://play.google.com/store/apps/developer?id=Star+Premium"
+    },
+    {
+      "id":2,
+      "title":"JHope BTS",
+      "image":"https://starpremium.github.io/image/btsjhopecall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btsjhopecall"
+    },
+    {
+      "id":3,
+      "title":"Jimin BTS",
+      "image":"https://starpremium.github.io/image/btsjimincall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btsjimincall"
+    },
+    {
+      "id":4,
+      "title":"Jin BTS",
+      "image":"https://starpremium.github.io/image/btsjincall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btsjincall"
+    },
+    {
+      "id":5,
+      "title":"RM BTS",
+      "image":"https://starpremium.github.io/image/btsrmnamjooncall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btsrmnamjooncall"
+    },
+    {
+      "id":6,
+      "title":"Suga BTS",
+      "image":"https://starpremium.github.io/image/btssugacall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btssugacall"
+    },
+    {
+      "id":7,
+      "title":"V BTS",
+      "image":"https://starpremium.github.io/image/btsvtaehyungcall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.btsvtaehyungcall"
+    },
+
+
+    {
+      "id":8,
+      "title":"Jennie",
+      "image":"https://starpremium.github.io/image/blackpinkjenniecallyou.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.blackpinkjenniecallyou"
+    },
+    {
+      "id":9,
+      "title":"Jisoo",
+      "image":"https://starpremium.github.io/image/blackpinkjisoocallyou.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.blackpinkjisoocallyou"
+    },
+    {
+      "id":10,
+      "title":"Lisa",
+      "image":"https://starpremium.github.io/image/blackpinklisacallyou.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.blackpinklisacallyou"
+    },
+    {
+      "id":11,
+      "title":"Rose",
+      "image":"https://starpremium.github.io/image/blackpinkrosecallyou.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.blackpinkrosecallyou"
+    },
+
+
+    {
+      "id":12,
+      "title":"Siwon Choi",
+      "image":"https://starpremium.github.io/image/siwonchoi.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.siwonchoi"
+    },
+    {
+      "id":13,
+      "title":"Park Seo-joon",
+      "image":"https://starpremium.github.io/image/parkseojoon.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.parkseojoon"
+    },
+    {
+      "id":14,
+      "title":"Ronaldo",
+      "image":"https://starpremium.github.io/image/cristianoronaldo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.cristianoronaldo"
+    },
+    {
+      "id":15,
+      "title":"Messi",
+      "image":"https://starpremium.github.io/image/lionelmessi.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.lionelmessi"
+    },
+    {
+      "id":16,
+      "title":"Addison Rae",
+      "image":"https://starpremium.github.io/image/addisonrae.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.addisonrae"
+    },
+    {
+      "id":17,
+      "title":"Bella Poarch",
+      "image":"https://starpremium.github.io/image/bellapoarch.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.bellapoarch"
+    },
+    {
+      "id":18,
+      "title":"Call Sakura",
+      "image":"https://starpremium.github.io/image/sakuraschoolsimulatorcallingyou.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.sakuraschoolsimulatorcallingyou"
+    },
+    {
+      "id":19,
+      "title":"Keyboard Sakura",
+      "image":"https://starpremium.github.io/image/sakuraschoolsimulatorkeyboardbts.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.sakuraschoolsimulatorkeyboardbts"
+    },
+    {
+      "id":20,
+      "title":"PROPS Sakura",
+      "image":"https://starpremium.github.io/image/sakuraschoolsimulatorpropsidbts.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.sakuraschoolsimulatorpropsidbts"
+    },
+    {
+      "id":21,
+      "title":"Call Boboiboy",
+      "image":"https://starpremium.github.io/image/boboiboycall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.boboiboycall"
+    },
+    {
+      "id":22,
+      "title":"Keyboard Boboiboy",
+      "image":"https://starpremium.github.io/image/boboiboykeyboard.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.boboiboykeyboard"
+    },
+    {
+      "id":23,
+      "title":"Call Upin Ipin",
+      "image":"https://starpremium.github.io/image/upinipincall.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.upinipincall"
+    },
+    {
+      "id":24,
+      "title":"Keyboard Upin Ipin",
+      "image":"https://starpremium.github.io/image/upinipinkeyboard.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.upinipinkeyboard"
+    },
+    {
+      "id":25,
+      "title":"Alyssa Dezek",
+      "image":"https://starpremium.github.io/image/alyssadezek.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.alyssadezek"
+    },
+    {
+      "id":26,
+      "title":"Amanda Manopo",
+      "image":"https://starpremium.github.io/image/amandamanopo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.amandamanopo"
+    },
+    {
+      "id":27,
+      "title":"Arya Saloka",
+      "image":"https://starpremium.github.io/image/aryasaloka.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.aryasaloka"
+    },
+    {
+      "id":28,
+      "title":"Frost Diamond",
+      "image":"https://starpremium.github.io/image/frostdiamondminecraft.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.frostdiamondminecraft"
+    },
+    {
+      "id":29,
+      "title":"NAY",
+      "image":"https://starpremium.github.io/image/naisaalifiayuriza.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.naisaalifiayuriza"
+    },
+    {
+      "id":30,
+      "title":"Atta Halilintar",
+      "image":"https://starpremium.github.io/image/attahalilintarofficial.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.attahalilintarofficial"
+    },
+    {
+      "id":31,
+      "title":"Ria Ricis",
+      "image":"https://starpremium.github.io/image/riaricisofficial.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.riaricisofficial"
+    },
+    {
+      "id":32,
+      "title":"Raffi Ahmad",
+      "image":"https://starpremium.github.io/image/raffiahmad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.raffiahmad"
+    },
+    {
+      "id":33,
+      "title":"Fuji An",
+      "image":"https://starpremium.github.io/image/fujiangala.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.fujiangala"
+    },
+    {
+      "id":34,
+      "title":"Fahmi",
+      "image":"https://starpremium.github.io/image/fahminurmuhammad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.fahminurmuhammad"
+    },
+    {
+      "id":35,
+      "title":"Una",
+      "image":"https://starpremium.github.io/image/nadykhtnaptr.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.nadykhtnaptr"
+    },
+    {
+      "id":35,
+      "title":"Wahyu Kadeo",
+      "image":"https://starpremium.github.io/image/wahyukadeo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.wahyukadeo"
+    },
+    {
+      "id":37,
+      "title":"Rey Bong",
+      "image":"https://starpremium.github.io/image/reybong.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.reybong"
+    },
+    {
+      "id":38,
+      "title":"Sandrinna",
+      "image":"https://starpremium.github.io/image/sandrinnamichelle.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.starpremium.sandrinnamichelle"
+    }
+  ]
+
+}
