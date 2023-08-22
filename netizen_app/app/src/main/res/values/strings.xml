@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gus Azmi Fake Call - Chat</string>
+    <string name="user_name">Gus Azmi</string>
+    <string name="message_placeholder">Type a message</string>
+    <string name="video_call">Video call</string>
+    <string name="audio_call">Voice call</string>
+    <string name="settings">Mode</string>
+
+    <string name="admobappid">ca-app-pub-8144407055650230~1737844553</string>
+    <string name="sdk_key_applovin">TSv0qCSB9QkMCXP6HtPRNxSFdDEtt9Wieva4TWKlRqTpIU2ortQQUk_QwkoHktl-eT8oboE6LEBcCGZg3nvqdW</string>
+
+    <string name="last_seen_default">Last seen </string>
+    <string name="contact_default">New contact</string>
+    <string name="today">Today</string>
+    <string name="contact_name_placeholder">Name</string>
+    <string name="contact_state_placeholder">Last Chats</string>
+    <string name="contact_data_title">Save Contact</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="block">Block</string>
+    <string name="add">Add</string>
+    <string name="state_seen">Seen</string>
+    <string name="state_delivered">Delivered</string>
+    <string name="state_sent">Sent</string>
+    <string name="message_data_title">Message state</string>
+    <string name="fakecontact">Fake Chat</string>
+    <string name="shareapp">Fake Call</string>
+    <string name="rateApp">Play Jigsaw</string>
+    <string name="label">sedangviral 2023</string>
+    <string name="aboutApp">How to use</string>
+    <string name="end_to_end">" End-to-end encrypted"</string>
+    <string name="calling">Calling</string>
+    <string name="ring">Ringing</string>
+    <string name="changevid">Change Videos</string>
+    <string name="changevoic">Change Voice</string>
+    <string name="calling2">WhatsApp voice call</string>
+    <string name="swipe">Swipe up to accept</string>
+    <string name="calling3">WhatsApp video call</string>
+    <string name="shareit">"Download Gus Azmi Fake Video Call and Puzzle on google playstore "</string>
+    <string name="change_mode">Switch Modes</string>
+    <string name="change_mode_description">You can change the mode of receiving a call (10 second wait delay) or dialing out</string>
+    <string name="receiver">incoming call</string>
+    <string name="caller">outgoing call</string>
+    <string name="alert">Features don\'t work</string>
+    <string name="editcontact">Edit Contact</string>
+    <string name="how">How to use</string>
+    <string name="null_contact">Press the + button below to add contact data</string>
+    <string name="no_accept">Cannot use this name</string>
+
+
+    <string name="deskripsi_about">Let\'s have fun, video call and voice call with me right now.</string>
+    <string name="menu_item_title">Share</string>
+    <string name="fbstatus">is calling you on Messenger…</string>
+
+    <string name="menu_item_rate">Rate App</string>
+    <string name="menu_item_seting">Xiomi Setting</string>
+    <string name="calling4">" Telegram Video Calls"</string>
+    <string name="calling7">Telegram voice call</string>
+    <string name="menu_item_update">Check Version</string>
+
+
+    <string name="Play">Select Image</string>
+    <string name="gallery">From Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="select_level">Level Number</string>
+    <string name="end">Congratulations</string>
+    <string name="description_end">You have finished the game!</string>
+    <string name="yes">Ok</string>
+
+
+</resources>

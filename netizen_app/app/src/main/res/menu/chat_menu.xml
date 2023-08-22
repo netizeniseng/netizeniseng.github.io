@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/vidcall"
+        android:icon="@drawable/ic_call_icon_video"
+        android:title="@string/video_call"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/audiocallxxx"
+        android:icon="@drawable/ic_action_call"
+        android:title="@string/audio_call"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mode"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+
+    <item
+        android:visible="false"
+        android:id="@+id/vid"
+        android:title="@string/changevid"
+        app:showAsAction="never" />
+
+
+    <item
+        android:visible="false"
+        android:id="@+id/voice"
+        android:title="@string/changevoic"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/edit"
+        android:title="@string/editcontact"
+        app:showAsAction="never" />
+</menu>

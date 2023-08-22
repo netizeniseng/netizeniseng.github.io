@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+    tools:context=".NetizenUIutama.NetizenChatActivity">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg2" />
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/chat_list_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/bottomlayout"
+            android:layout_marginBottom="4dp"
+            android:clipToPadding="false"
+            android:divider="@drawable/chat_divider"
+            android:paddingBottom="4dp"
+            android:scrollbarStyle="outsideOverlay"
+            android:stackFromBottom="false"
+            android:transcriptMode="normal" />
+
+        <LinearLayout
+            android:id="@+id/bottomlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_weight="1"
+                android:background="@drawable/input"
+                android:minHeight="50dp"
+                android:orientation="horizontal"
+                android:paddingBottom="15dp"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:weightSum="1">
+
+                <ImageView
+                    android:id="@+id/emojiButton"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="bottom"
+                    android:onClick="ALERT"
+                    android:src="@drawable/input_emoji" />
+
+                <EditText
+                    android:id="@+id/chat_input_view"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:layout_marginLeft="12dp"
+                    android:layout_marginRight="4dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:hint="@string/message_placeholder"
+                    android:inputType="textMultiLine"
+                    android:singleLine="false"
+                    android:textColorHint="#c4c0bd"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/attachButton"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="bottom"
+                    android:layout_marginRight="24dp"
+                    android:onClick="ALERT"
+                    android:src="@drawable/ib_attach" />
+
+                <ImageView
+                    android:id="@+id/camButton"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="bottom"
+                    android:onClick="ALERT"
+                    android:src="@drawable/ib_camera" />
+
+                <ImageView
+                    android:id="@+id/sideSwitchButton"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="bottom"
+                    android:src="@drawable/switcher_self"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/chat_button_send"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom"
+                android:background="@drawable/input_circle_normal"
+                android:onClick="ALERT"
+                android:src="@drawable/input_mic_white" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</FrameLayout>

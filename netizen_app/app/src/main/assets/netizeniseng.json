@@ -1,0 +1,158 @@
+{
+  "Item": [
+    {
+      "id": 1,
+      "name": "Gus Azmi",
+      "image_url": "file:///android_asset/image/fotonet (1).webp",
+      "video_url": "videonet",
+      "voice_url": "videonet.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Gus Azmi",
+      "image_url": "file:///android_asset/image/fotonet (2).webp",
+      "video_url": "videonet",
+      "voice_url": "videonet.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Gus Azmi",
+      "image_url": "file:///android_asset/image/fotonet (3).webp",
+      "video_url": "videonet",
+      "voice_url": "videonet.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Gus Azmi",
+      "image_url": "file:///android_asset/image/fotonet (4).webp",
+      "video_url": "videonet",
+      "voice_url": "videonet.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Gus Azmi",
+      "image_url": "file:///android_asset/image/fotonet (5).webp",
+      "video_url": "videonet",
+      "voice_url": "videonet.mp3"
+    },
+    {
+      "id": 6,
+      "name": "Gus Azmi",
+      "image_url": "file:///android_asset/image/fotonet (6).webp",
+      "video_url": "videonet",
+      "voice_url": "videonet.mp3"
+    },
+    {
+      "id": 7,
+      "name": "Gus Azmi",
+      "image_url": "file:///android_asset/image/fotonet (7).webp",
+      "video_url": "videonet",
+      "voice_url": "videonet.mp3"
+    },
+    {
+      "id": 8,
+      "name": "Gus Azmi",
+      "image_url": "file:///android_asset/image/fotonet (8).webp",
+      "video_url": "videonet",
+      "voice_url": "videonet.mp3"
+    },
+    {
+      "id": 9,
+      "name": "Gus Azmi",
+      "image_url": "file:///android_asset/image/fotonet (9).webp",
+      "video_url": "videonet",
+      "voice_url": "videonet.mp3"
+    }
+  ],
+  "Data":
+  [
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (1).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (2).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (3).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (4).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (5).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (6).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (7).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (8).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (9).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (10).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (11).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (12).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (13).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (14).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (15).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (16).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (17).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (18).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (19).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (20).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (21).webp"
+    },
+    {
+      "title":"Play Game",
+      "image":"file:///android_asset/image/fotonet (22).webp"
+    }
+  ]
+}

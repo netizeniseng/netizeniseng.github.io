@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/overflowMenu"
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:title=""
+        app:showAsAction="always">
+
+        <menu>
+            <item
+                android:id="@+id/menu_share"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="@string/menu_item_title"
+                />
+
+            <item
+                android:id="@+id/menu_rate"
+                android:icon="@drawable/ic_baseline_star_half_24"
+                android:title="@string/menu_item_rate"
+                />
+
+            <item
+                android:id="@+id/menu_seting"
+                android:icon="@drawable/ic_baseline_settings_24"
+                android:title="@string/menu_item_seting"
+                />
+
+            <item
+                android:id="@+id/menu_update"
+                android:icon="@drawable/ic_baseline_settings_24"
+                android:title="@string/menu_item_update"
+                />
+        </menu>
+    </item>
+</menu>

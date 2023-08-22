@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300486991266",
+    "project_id": "sedangviral-e9205",
+    "storage_bucket": "sedangviral-e9205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300486991266:android:fa0354f71d9a1f9009a6fb",
+        "android_client_info": {
+          "package_name": "com.netizen.btsjhopeviral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300486991266-idif1a0pnes3f8nej485muo30o6o2uc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByLM3v4Sw0lz-gV1bMmhSV4m4VK2f6fBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300486991266-idif1a0pnes3f8nej485muo30o6o2uc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

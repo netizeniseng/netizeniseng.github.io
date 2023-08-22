@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.ACTION_MANAGE_OVERLAY_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_config"
+        android:requestLegacyExternalStorage="true"
+        android:theme="@style/AppTheme"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true" />
+
+        <activity
+            android:name=".NetizenUIutama.NetizenGuideActivity"
+            android:label="@string/how"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".NetizenUIutama.voice.NetizenCallActivityReceive"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NetizenUIutama.video.NetizenVideoActivityReceive"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NetizenUIutama.video.NetizenVideoActivityCall"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NetizenUIutama.voice.NetizenCallActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NetizenUIutama.contact.NetizenEditContact"
+            android:theme="@style/AppThemeSPA"
+            android:windowSoftInputMode="stateVisible|adjustResize" />
+        <activity
+            android:name=".NetizenUIutama.contact.NetizenEditContactNew"
+            android:theme="@style/AppThemeSPA"
+            android:windowSoftInputMode="stateVisible|adjustResize" />
+        <activity
+            android:name=".NetizenUIutama.NetizenChatActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".NetizenUIutama.NetizenMainActivity"
+            android:label="Chats"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NetizenUIutama.NetizenMenuActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NetizenUIutama.NetizenSplashActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppThemeSPA">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+
+
+
+        <activity android:name=".NetizenFacebook.FBVoiceActivity" android:screenOrientation="portrait"
+            android:theme="@style/AppTheme3"></activity>
+        <activity android:name=".NetizenFacebook.FBVideoActivity" android:screenOrientation="portrait"
+            android:theme="@style/AppTheme3"></activity>
+        <activity
+            android:name=".NetizenWhatsapp.WAVideoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2"/>
+
+        <activity
+            android:name=".NetizenTelegram.TeleVideoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme2" />
+
+        <activity
+            android:name=".NetizenTelegram.TeleVoiceActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".NetizenActivity.Netizencall_DetailFakeActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".NetizenWhatsapp.WAVoiceActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".NetizenActivity.Netizencall_MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+        <receiver
+            android:name=".NetizenUtility.Netizencall_AppReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+
+
+
+
+
+        <activity android:name=".NetizenJigsaw.JigsawUI.PuzzleListActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".NetizenJigsaw.JigsawUI.PuzzleMainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".NetizenJigsaw.JigsawUI.PuzzleJigsawActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true" />
+
+
+
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admobappid" />
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="@string/sdk_key_applovin" />
+    </application>
+
+</manifest>

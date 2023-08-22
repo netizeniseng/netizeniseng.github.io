@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">@android:color/white</color>
+    <color name="chat_company_reply_background_color">#F5F5F5</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#3ABAF4</color>
+    <color name="colorAccent">#87DAFF</color>
+
+    <color name="native_title">#000000</color>
+    <color name="native_description">#000000</color>
+    <color name="native_text_button">#ffffff</color>
+    <color name="native_button">@color/colorPrimary</color>
+    <color name="native_background">#98DEFD</color>
+    <color name="native_stroke_background">#808080</color>
+    <color name="native_back">#f7f1e3</color>
+
+
+    <color name="colortext">#ffffff</color>
+    <color name="colorbutton1">#00cec9</color>
+    <color name="colorbutton1x">#81ecec</color>
+    <color name="colorbutton2">#fdcb6e</color>
+    <color name="colorbutton2x">#ffeaa7</color>
+    <color name="colorbutton3">#e17055</color>
+    <color name="colorbutton3x">#fab1a0</color>
+    <color name="colorradio">#8395a7</color>
+    <color name="colorradio2">#576574</color>
+    <color name="colorradio3">#222f3e</color>
+    <color name="native_grey3">#c7ecee</color>
+    <color name="overlay_dark_40">#66000000</color>
+    <color name="gray_dark">#2B2B2B</color>
+</resources>
